@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Capa_Datos/Capa_Datos.csproj" Id="600c8817-9cbf-4d77-9b2b-d1c971e67584" />
+  <Project Path="Capa_Entidades/Capa_Entidades.csproj" Id="c815c0fc-8a78-462e-b29e-8cde8d1d1480" />
+  <Project Path="Capa_Negocio/Capa_Negocio.csproj" Id="aace2359-2529-4cbb-b714-82e807270a2d" />
+  <Project Path="PRACTICA_Saber4_multicapas/Capa_Presentacion.csproj" Id="1d726d87-4ac4-4974-a8a1-09a16f2fe3ec" />
+</Solution>
